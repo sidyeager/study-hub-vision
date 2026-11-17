@@ -11,6 +11,7 @@ Made on 17 November 2026. This file lists every piece of the Study Hub pitch wor
 | Founding document pack (PDF, 14 pages, A4) | [`pdf/Study Hub Founding Document Pack.pdf`](pdf/Study%20Hub%20Founding%20Document%20Pack.pdf) |
 | Founding plan (Markdown) | [`docs/FOUNDING-PLAN.md`](docs/FOUNDING-PLAN.md) |
 | Vision, roadmap and business model summary | [`README.md`](README.md) |
+| Fundraising notes: VCs, incubators, grants and YC | [`docs/FUNDRAISING-NOTES.md`](docs/FUNDRAISING-NOTES.md) |
 | Live app | https://pu-study-hub-orcin.vercel.app |
 
 ## Editable versions in claude.ai (private to the owner's account)
