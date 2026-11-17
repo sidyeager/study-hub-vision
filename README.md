@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="media/study-hub-pitch.mp4"><img src="media/cover.jpg" alt="Study Hub pitch video, click to watch" width="100%"></a>
+  <a href="media/study-hub-pitch.mp4"><img src="media/preview.gif" alt="Study Hub pitch video preview: click to watch the full video with sound" width="100%"></a>
 </p>
 
 <h1 align="center">Study Hub</h1>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="media/study-hub-pitch.mp4">▶ Watch the 65-second pitch</a> ·
+  <a href="media/study-hub-pitch.mp4">▶ Watch the full 65-second pitch (with sound)</a> ·
   <a href="https://pu-study-hub-orcin.vercel.app/">Try the live app</a> ·
   <a href="docs/FOUNDING-PLAN.md">Read the full plan</a>
 </p>
