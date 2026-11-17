@@ -12,7 +12,9 @@
 <p align="center">
   <a href="media/study-hub-pitch.mp4">▶ Watch the full 65-second pitch (with sound)</a> ·
   <a href="https://pu-study-hub-orcin.vercel.app/">Try the live app</a> ·
-  <a href="docs/FOUNDING-PLAN.md">Read the full plan</a>
+  <a href="docs/FOUNDING-PLAN.md">Read the full plan</a> ·
+  <a href="pdf/Study%20Hub%20Founding%20Document%20Pack.pdf">Download the PDF</a> ·
+  <a href="ASSETS.md">All files</a>
 </p>
 
 ---
